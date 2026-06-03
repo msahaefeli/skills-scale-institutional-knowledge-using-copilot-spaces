@@ -18,3 +18,4 @@ Quality assurance is embedded throughout execution and release, not deferred to 
 - [OctoAcme Release and Deployment](./octoacme-release-and-deployment.md)
 - [OctoAcme Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Roles and Personas](./octoacme-roles-and-personas.md)
+- [OctoAcme Role Ownership and Handoff Checklist](./octoacme-role-ownership-checklist.md)
